@@ -8,6 +8,11 @@
     "checkboxPosition": "left",
     "columns": [
         {
+            "id": "column_3",
+            "label": "Name",
+            "name": "name"
+        },
+        {
             "id": "column_0",
             "label": "Date",
             "name": "date"
@@ -18,21 +23,12 @@
             "name": "department"
         },
         {
-            "id": "column_2",
-            "label": "ID",
-            "name": "id"
-        },
-        {
-            "id": "column_3",
-            "label": "Name",
-            "name": "name"
-        },
-        {
             "id": "column_4",
             "label": "Remarks",
             "name": "remarks"
         }
     ],
+    "considerFilterWhenGetTotal": "",
     "filters": [],
     "id": "list_sampleRequest",
     "name": "List - Sample Request",
