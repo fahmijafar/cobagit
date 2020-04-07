@@ -27,6 +27,37 @@
                     }
                 },
                 {
+                    "className": "org.joget.apps.form.lib.SelectBox",
+                    "properties": {
+                        "controlField": "",
+                        "id": "department",
+                        "label": "Department",
+                        "multiple": "",
+                        "options": [],
+                        "optionsBinder": {
+                            "className": "org.joget.plugin.enterprise.DepartmentOptionsBinder",
+                            "properties": {
+                                "addEmptyOption": "",
+                                "autoHandleFiles": "",
+                                "autoHandleWorkflowVariable": "true",
+                                "cacheIdlePause": "120",
+                                "cacheInterval": "",
+                                "emptyLabel": "",
+                                "orgId": ""
+                            }
+                        },
+                        "readonly": "",
+                        "readonlyLabel": "",
+                        "size": "",
+                        "validator": {
+                            "className": "",
+                            "properties": {}
+                        },
+                        "value": "",
+                        "workflowVariable": ""
+                    }
+                },
+                {
                     "className": "org.joget.apps.form.lib.TextArea",
                     "properties": {
                         "cols": "20",
