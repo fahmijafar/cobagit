@@ -13,11 +13,23 @@
             "name": "country"
         },
         {
+            "filterable": true,
+            "hidden": "false",
             "id": "column_1",
-            "label": "ID",
-            "name": "id"
+            "label": "Created By",
+            "name": "createdBy",
+            "sortable": "false"
+        },
+        {
+            "filterable": true,
+            "hidden": "false",
+            "id": "column_2",
+            "label": "Date Created",
+            "name": "dateCreated",
+            "sortable": "false"
         }
     ],
+    "considerFilterWhenGetTotal": "",
     "filters": [],
     "id": "list_cek",
     "name": "List - Cek",
