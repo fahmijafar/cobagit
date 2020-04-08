@@ -27,6 +27,14 @@
             "label": "Created By",
             "name": "createdBy",
             "sortable": "false"
+        },
+        {
+            "filterable": true,
+            "hidden": "false",
+            "id": "column_3",
+            "label": "Modified By",
+            "name": "modifiedBy",
+            "sortable": "false"
         }
     ],
     "considerFilterWhenGetTotal": "",
