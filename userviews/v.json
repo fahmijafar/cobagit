@@ -71,6 +71,62 @@
                 "id": "category-91087baf-99ec-44ae-8601-005adf194c72",
                 "label": "<i class='fa fa-tasks'><\/i>Manage Sample Request"
             }
+        },
+        {
+            "className": "org.joget.apps.userview.model.UserviewCategory",
+            "menus": [{
+                "className": "org.joget.plugin.enterprise.CrudMenu",
+                "properties": {
+                    "add-afterSaved": "list",
+                    "add-afterSavedRedirectParamName": "",
+                    "add-afterSavedRedirectParamvalue": "",
+                    "add-afterSavedRedirectUrl": "",
+                    "add-cancelButtonLabel": "",
+                    "add-customFooter": "",
+                    "add-customHeader": "",
+                    "add-messageShowAfterComplete": "",
+                    "add-saveButtonLabel": "",
+                    "addFormId": "cek",
+                    "buttonPosition": "bottomLeft",
+                    "checkboxPosition": "left",
+                    "customId": "cek_crud",
+                    "datalistId": "list_cek",
+                    "edit-afterSaved": "list",
+                    "edit-afterSavedRedirectParamName": "",
+                    "edit-afterSavedRedirectParamvalue": "",
+                    "edit-afterSavedRedirectUrl": "",
+                    "edit-allowRecordTraveling": "",
+                    "edit-backButtonLabel": "",
+                    "edit-customFooter": "",
+                    "edit-customHeader": "",
+                    "edit-firstButtonLabel": "",
+                    "edit-lastButtonLabel": "",
+                    "edit-messageShowAfterComplete": "",
+                    "edit-moreActions": [],
+                    "edit-nextButtonLabel": "",
+                    "edit-prevButtonLabel": "",
+                    "edit-readonly": "",
+                    "edit-readonlyLabel": "",
+                    "edit-saveButtonLabel": "",
+                    "editFormId": "cek",
+                    "id": "58f093d0-6bba-45a2-b647-61295b479f9e",
+                    "keyName": "",
+                    "label": "Manage Cek",
+                    "list-customFooter": "",
+                    "list-customHeader": "",
+                    "list-deleteButtonLabel": "",
+                    "list-editLinkLabel": "",
+                    "list-moreActions": [],
+                    "list-newButtonLabel": "",
+                    "list-showDeleteButton": "yes",
+                    "rowCount": "true",
+                    "selectionType": "multiple"
+                }
+            }],
+            "properties": {
+                "id": "category-3850ed9d-aa33-4fec-b89a-b673e1287e6c",
+                "label": "<i class='fa fa-tasks'><\/i>Manage Cek"
+            }
         }
     ],
     "className": "org.joget.apps.userview.model.Userview",
