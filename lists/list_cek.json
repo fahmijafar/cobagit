@@ -15,17 +15,17 @@
         {
             "filterable": true,
             "hidden": "false",
-            "id": "column_1",
-            "label": "Created By",
-            "name": "createdBy",
+            "id": "column_2",
+            "label": "Date Created",
+            "name": "dateCreated",
             "sortable": "false"
         },
         {
             "filterable": true,
             "hidden": "false",
-            "id": "column_2",
-            "label": "Date Created",
-            "name": "dateCreated",
+            "id": "column_1",
+            "label": "Created By",
+            "name": "createdBy",
             "sortable": "false"
         }
     ],
